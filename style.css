@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #bbc7cc;
+  background-color: #dce6e9;
   font-family: sans-serif;
 }
 .container {
@@ -58,7 +58,7 @@ nav button {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: conic-gradient(#090909b0, #6b7578, #859094, #bbc7cc, #e2f2f3);
+  background: conic-gradient(#000000b0, #73848b, #a0b2ba, #c1cfd4, #dce6e9);
   animation: rotate 4s linear infinite;
   z-index: -1;
 }
